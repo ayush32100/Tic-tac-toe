@@ -50,12 +50,13 @@ body {
 
 #new-btn {
     border-radius: 2rem;
-    height: 5vmin;
-    width: 15vmin;
+    height: 14vmin;
+    width: 42vmin;
     justify-content: center;
     align-items: center;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-size: 6vmin;
 
 }
 #msg{
