@@ -45,10 +45,10 @@ boxes.forEach((box) => {
     box.addEventListener("click", () => {
         
         if (turnO) {
-            box.innerText = "O";
+            box.innerText = "E";
             turnO = false;
         } else {
-            box.innerText = "X";
+            box.innerText = "A";
             turnO = true;
         }
         box.disabled = true;
